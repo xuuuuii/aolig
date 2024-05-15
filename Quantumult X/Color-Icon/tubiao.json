@@ -1,18 +1,38 @@
 {
   "name": "Xiaoxu&",
-  "description": "自用&整点图标（108*108）",
+  "description": "自用&整点图标",
   "icons": [
     {
-      "name": "Goodnotes",
-      "url": "https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult%20X/GoodNotes6/Goodnotes%206(100).png"
+      "name": "kanlixiang",
+      "url": "[kanlixiang.png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/kanlixiang.png)"
     },
     {
-      "name": "薯条",
+      "name": "shutiao",
       "url": "[shutiao.png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/shutiao.png)"
     },
     {
-      "name": "草莓",
-      "url": "https://github.com/FanBu-a/zhengdiantubiao_1/blob/main/Quantumult%20X/Color-Icon/caomei.png"
+      "name": "GoodNotes",
+      "url": "[Goodnotes 6(100).png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/GoodNotes6/Goodnotes 6(100).png)"
+    },
+    {
+      "name": "Duolingguo",
+      "url": "[duolingguo.png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/duolingguo.png)"
+    },
+    {
+      "name": "Duolingguo",
+      "url": "[duolingguo(by).png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/duolingguo(by).png)"
+    },
+    {
+      "name": "APTV",
+      "url": "[APTV.png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/APTV.png)"
+    },
+    {
+      "name": "TV",
+      "url": "[TV（by）.png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/TV（by）.png)"
+    },
+    {
+      "name": "TV",
+      "url": "[TV.png (108×108) (raw.githubusercontent.com)](https://raw.githubusercontent.com/FanBu-a/zhengdiantubiao_1/main/Quantumult X/Color-Icon/TV.png)"
     },
 ]
 }
